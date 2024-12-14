@@ -1,0 +1,3 @@
+# Employee Attrition Prediction
+
+This project predicts employee attrition using machine learning techniques. It leverages the Random Forest algorithm to classify whether an employee is at risk of leaving based on HR data. The pipeline includes data preprocessing (handling missing values, encoding, scaling), exploratory analysis, model training, and evaluation. Key drivers of attrition are identified through feature importance analysis, and high-risk employees are highlighted using predictive probabilities. The dataset used is `HR-Employee-Attrition.csv`, and results are visualized with confusion matrices and feature importance plots. Tools: Python (pandas, scikit-learn, seaborn, matplotlib).
